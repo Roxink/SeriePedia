@@ -1,0 +1,10 @@
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Images\bin\Release\netcoreapp3.0\Images.deps.json
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Images\bin\Release\netcoreapp3.0\Images.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Images\bin\Release\netcoreapp3.0\Images.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Images\obj\Release\netcoreapp3.0\Images.csprojAssemblyReference.cache
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Images\obj\Release\netcoreapp3.0\Images.g.resources
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Images\obj\Release\netcoreapp3.0\Images.AssemblyInfoInputs.cache
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Images\obj\Release\netcoreapp3.0\Images.AssemblyInfo.cs
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Images\obj\Release\netcoreapp3.0\Images.csproj.CoreCompileInputs.cache
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Images\obj\Release\netcoreapp3.0\Images.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Images\obj\Release\netcoreapp3.0\Images.pdb

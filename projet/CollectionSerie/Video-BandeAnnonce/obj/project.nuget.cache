@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4jWIVM5+SLaGe8zVWJMaMVrH7c9k+cWBxQ9CTNIGEh7G9vTrkQcxVGQfuVd3AXVammN/AukCgXFQDNpNVF7Vww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Clément\\Desktop\\cours\\1 année IUT Informatique\\Projet tutoré 1AP4\\projet\\CollectionSerie\\Video-BandeAnnonce\\Video-BandeAnnonce.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Clément\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Clément\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Clément\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

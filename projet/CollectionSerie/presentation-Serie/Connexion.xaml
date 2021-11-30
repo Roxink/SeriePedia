@@ -1,0 +1,30 @@
+﻿<Window x:Class="Connexion.ConnexionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Connexion"
+        mc:Ignorable="d"
+        Title="Connexion" Height="319" Width="380" MinHeight="329" MinWidth="380" MaxHeight="329" MaxWidth="380">
+    <Grid Background="BurlyWood"  Height="319" Width="380">
+
+
+        <TextBlock Margin="102,23,102,269" FontStyle="Normal"> CONNEXION ET INSCRIPTION</TextBlock>
+        <Border BorderBrush="Black" BorderThickness="2" Margin="54,52,54,102">
+
+            <StackPanel Margin="-2,8,-2,8">
+
+                <TextBlock Text="Identifiant" Height="26" Width="58"/>
+                <TextBox Width="120" Height="25" x:Name="identifiant"  TextAlignment="Center"/>
+                <TextBlock Margin="5"></TextBlock>
+                <TextBlock Text="Mot de passe" Height="26" Width="75"/>
+                <PasswordBox x:Name="mdp"  PasswordChar="●" Width="120" Height="25"/>
+            </StackPanel>
+        </Border>
+        <Button Content="Se connecter" x:Name="Se_connecter" Click="Connexion" Margin="54,233,205,50" MaxHeight="40" MaxWidth="140" Background="BurlyWood" IsDefault="True"/>
+        <Button Content="S'inscrire" x:Name="LanceInscription" Click="Inscription" Margin="205,233,54,50" MaxHeight="40" MaxWidth="140"  Background="BurlyWood"/>
+        <Button Click="FermerFenetreCo" x:Name="Retour" Margin="0,10,23,0" HorizontalAlignment="Right" Width="31" Height="34" VerticalAlignment="Top">
+            <Image Source="/Images;Component/Image_Technique/retour.png" Height="34"/>
+        </Button>
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\bin\Debug\netcoreapp3.0\Connexion_Inscription.exe
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\bin\Debug\netcoreapp3.0\Connexion_Inscription.deps.json
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\bin\Debug\netcoreapp3.0\Connexion_Inscription.runtimeconfig.json
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\bin\Debug\netcoreapp3.0\Connexion_Inscription.runtimeconfig.dev.json
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\bin\Debug\netcoreapp3.0\Connexion_Inscription.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\bin\Debug\netcoreapp3.0\Connexion_Inscription.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\bin\Debug\netcoreapp3.0\Data.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\bin\Debug\netcoreapp3.0\Modele.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\bin\Debug\netcoreapp3.0\Data.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\bin\Debug\netcoreapp3.0\Modele.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\obj\Debug\netcoreapp3.0\Connexion_Inscription.AssemblyInfoInputs.cache
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\obj\Debug\netcoreapp3.0\Connexion_Inscription.AssemblyInfo.cs
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\obj\Debug\netcoreapp3.0\Connexion_Inscription.csproj.CoreCompileInputs.cache
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\obj\Debug\netcoreapp3.0\Connexion_Inscription.csproj.CopyComplete
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\obj\Debug\netcoreapp3.0\Connexion_Inscription.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\obj\Debug\netcoreapp3.0\Connexion_Inscription.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Connexion_Inscription\obj\Debug\netcoreapp3.0\Connexion_Inscription.genruntimeconfig.cache

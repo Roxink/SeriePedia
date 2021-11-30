@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>presentation_Serie</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="test\**" />
+    <EmbeddedResource Remove="test\**" />
+    <None Remove="test\**" />
+    <Page Remove="test\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="loupe.png" />
+    <None Remove="retour.png" />
+    <None Remove="user.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Data\Data.csproj" />
+    <ProjectReference Include="..\Images\Images.csproj" />
+    <ProjectReference Include="..\Modele\Modele.csproj" />
+    <ProjectReference Include="..\Video-BandeAnnonce\Video-BandeAnnonce.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="Connexion.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="mkdir &quot;$(TargetDir)Données&quot;&#xD;&#xA;xcopy &quot;$(SolutionDir)presentation-Serie\Données&quot; &quot;$(TargetDir)Données&quot; /Y /S" />
+  </Target>
+
+</Project>

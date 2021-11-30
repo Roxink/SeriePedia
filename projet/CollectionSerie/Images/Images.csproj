@@ -1,0 +1,155 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Anime\desenchantee.jpg" />
+    <None Remove="Anime\futurama.jpg" />
+    <None Remove="Anime\les_simpsons.jpg" />
+    <None Remove="Anime\rick_et_morty.jpg" />
+    <None Remove="Anime\south_park.jpg" />
+    <None Remove="Documentaire\Dans-le-sillage-des-pirates.png" />
+    <None Remove="Documentaire\dans_le_sillage_des_pirates.jpg" />
+    <None Remove="Documentaire\En-pleine-nature.png" />
+    <None Remove="Documentaire\en_pleine_nature.jpg" />
+    <None Remove="Documentaire\fomula_1.jpg" />
+    <None Remove="Documentaire\Formula1.png" />
+    <None Remove="Documentaire\ManvsWild.png" />
+    <None Remove="Documentaire\man_vs_wild.jpg" />
+    <None Remove="Documentaire\The-Last-Dance.png" />
+    <None Remove="Documentaire\the_last_dance.jpg" />
+    <None Remove="Image_Technique\logout.png" />
+    <None Remove="Image_Technique\loupe.png" />
+    <None Remove="Image_Technique\retour.png" />
+    <None Remove="Image_Technique\user.png" />
+    <None Remove="Manga\dragon_ball_z.jpg" />
+    <None Remove="Manga\fairy_tail.jpg" />
+    <None Remove="Manga\l_attaque_des_titans.jpg" />
+    <None Remove="Manga\naruto.jpg" />
+    <None Remove="Manga\sword_art_online.jpg" />
+    <None Remove="SF_et_Action\altered_carbon.jpg" />
+    <None Remove="SF_et_Action\star_trek_discovery.jpg" />
+    <None Remove="SF_et_Action\stranger_things.jpg" />
+    <None Remove="SF_et_Action\the_100.jpg" />
+    <None Remove="SF_et_Action\the_umbrella_academy.jpg" />
+    <None Remove="Sitcom\friends.jpg" />
+    <None Remove="Sitcom\how_i_met_your_mother.jpg" />
+    <None Remove="Sitcom\malcolm.jpg" />
+    <None Remove="Sitcom\soda.jpg" />
+    <None Remove="Sitcom\the_big_bang_theory.jpg" />
+    <None Remove="Thriller\black_mirror.jpg" />
+    <None Remove="Thriller\breaking_bad.jpg" />
+    <None Remove="Thriller\house_of_cards.png" />
+    <None Remove="Thriller\la_casa_de_papel.png" />
+    <None Remove="Thriller\narcos.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Anime\desenchantee.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Anime\futurama.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Anime\les_simpsons.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Anime\rick_et_morty.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Anime\south_park.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Documentaire\Dans-le-sillage-des-pirates.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Documentaire\En-pleine-nature.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Documentaire\Formula1.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Documentaire\ManvsWild.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Documentaire\The-Last-Dance.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Image_Technique\logout.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Image_Technique\loupe.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Image_Technique\retour.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Image_Technique\user.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Manga\dragon_ball_z.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Manga\fairy_tail.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Manga\l_attaque_des_titans.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Manga\naruto.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Manga\sword_art_online.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SF_et_Action\altered_carbon.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SF_et_Action\star_trek_discovery.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SF_et_Action\stranger_things.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SF_et_Action\the_100.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SF_et_Action\the_umbrella_academy.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sitcom\friends.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sitcom\how_i_met_your_mother.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sitcom\malcolm.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sitcom\soda.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sitcom\the_big_bang_theory.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Thriller\black_mirror.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Thriller\breaking_bad.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Thriller\house_of_cards.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Thriller\la_casa_de_papel.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Thriller\narcos.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

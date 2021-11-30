@@ -1,0 +1,17 @@
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\bin\Debug\netcoreapp3.0\AfficherSerieTest.exe
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\bin\Debug\netcoreapp3.0\AfficherSerieTest.deps.json
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\bin\Debug\netcoreapp3.0\AfficherSerieTest.runtimeconfig.json
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\bin\Debug\netcoreapp3.0\AfficherSerieTest.runtimeconfig.dev.json
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\bin\Debug\netcoreapp3.0\AfficherSerieTest.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\bin\Debug\netcoreapp3.0\AfficherSerieTest.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\bin\Debug\netcoreapp3.0\Data.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\bin\Debug\netcoreapp3.0\Modele.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\bin\Debug\netcoreapp3.0\Data.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\bin\Debug\netcoreapp3.0\Modele.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\obj\Debug\netcoreapp3.0\AfficherSerieTest.AssemblyInfoInputs.cache
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\obj\Debug\netcoreapp3.0\AfficherSerieTest.AssemblyInfo.cs
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\obj\Debug\netcoreapp3.0\AfficherSerieTest.csproj.CoreCompileInputs.cache
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\obj\Debug\netcoreapp3.0\AfficherSerieTest.csproj.CopyComplete
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\obj\Debug\netcoreapp3.0\AfficherSerieTest.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\obj\Debug\netcoreapp3.0\AfficherSerieTest.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\AfficherSerieTest\obj\Debug\netcoreapp3.0\AfficherSerieTest.genruntimeconfig.cache

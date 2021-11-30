@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sNquXqUudmp+0Ei9UMVacJI8IT4R0PobhX9NBDNwl6ia9ObdQhJx0U1HxJlGDLB9BbvawweeaV3p86ArkUdczQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Clément\\Desktop\\cours\\1 année IUT Informatique\\Projet tutoré 1AP4\\projet\\CollectionSerie\\RechercherSerie\\RechercherSerie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Clément\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Clément\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Clément\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Clément\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

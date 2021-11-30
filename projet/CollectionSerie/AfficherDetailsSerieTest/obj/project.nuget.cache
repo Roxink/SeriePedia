@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "zyEcIjwNQ1wu1aOwNjiABZdS1q/7sg1EbXws0ACBeqaha4TNAJLWDHiR8qbeYqVhXBwJ3NUH5uB5QxAmJD/86A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Clément\\Desktop\\cours\\1 année IUT Informatique\\Projet tutoré 1AP4\\projet\\CollectionSerie\\AfficherDetailsSerieTest\\AfficherDetailsSerieTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Clément\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Clément\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Clément\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Clément\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Clément\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Clément\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Clément\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Le projet Modele n'est pas compatible avec netcoreapp2.1 (.NETCoreApp,Version=v2.1). Le projet Modele prend en charge : netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Modele",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    }
+  ]
+}

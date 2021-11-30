@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Clément\\Desktop\\cours\\1 année IUT Informatique\\Projet tutoré 1AP4\\projet\\CollectionSerie\\Data\\Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Clément\\Desktop\\cours\\1 année IUT Informatique\\Projet tutoré 1AP4\\projet\\CollectionSerie\\Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Clément\\Desktop\\cours\\1 année IUT Informatique\\Projet tutoré 1AP4\\projet\\CollectionSerie\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\Users\\Clément\\Desktop\\cours\\1 année IUT Informatique\\Projet tutoré 1AP4\\projet\\CollectionSerie\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Clément\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Clément\\Desktop\\cours\\1 année IUT Informatique\\Projet tutoré 1AP4\\projet\\CollectionSerie\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Clément\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Clément\\Desktop\\cours\\1 année IUT Informatique\\Projet tutoré 1AP4\\projet\\CollectionSerie\\Modele\\Modele.csproj": {
+                "projectPath": "C:\\Users\\Clément\\Desktop\\cours\\1 année IUT Informatique\\Projet tutoré 1AP4\\projet\\CollectionSerie\\Modele\\Modele.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Clément\\Desktop\\cours\\1 année IUT Informatique\\Projet tutoré 1AP4\\projet\\CollectionSerie\\Modele\\Modele.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Clément\\Desktop\\cours\\1 année IUT Informatique\\Projet tutoré 1AP4\\projet\\CollectionSerie\\Modele\\Modele.csproj",
+        "projectName": "Modele",
+        "projectPath": "C:\\Users\\Clément\\Desktop\\cours\\1 année IUT Informatique\\Projet tutoré 1AP4\\projet\\CollectionSerie\\Modele\\Modele.csproj",
+        "packagesPath": "C:\\Users\\Clément\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Clément\\Desktop\\cours\\1 année IUT Informatique\\Projet tutoré 1AP4\\projet\\CollectionSerie\\Modele\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Clément\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

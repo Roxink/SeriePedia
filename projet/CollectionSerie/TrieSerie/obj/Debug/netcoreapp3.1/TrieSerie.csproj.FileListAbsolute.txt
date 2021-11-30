@@ -1,0 +1,15 @@
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\TrieSerie\bin\Debug\netcoreapp3.1\TrieSerie.exe
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\TrieSerie\bin\Debug\netcoreapp3.1\TrieSerie.deps.json
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\TrieSerie\bin\Debug\netcoreapp3.1\TrieSerie.runtimeconfig.json
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\TrieSerie\bin\Debug\netcoreapp3.1\TrieSerie.runtimeconfig.dev.json
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\TrieSerie\bin\Debug\netcoreapp3.1\TrieSerie.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\TrieSerie\bin\Debug\netcoreapp3.1\TrieSerie.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\TrieSerie\bin\Debug\netcoreapp3.1\Modele.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\TrieSerie\bin\Debug\netcoreapp3.1\Modele.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\TrieSerie\obj\Debug\netcoreapp3.1\TrieSerie.AssemblyInfoInputs.cache
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\TrieSerie\obj\Debug\netcoreapp3.1\TrieSerie.AssemblyInfo.cs
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\TrieSerie\obj\Debug\netcoreapp3.1\TrieSerie.csproj.CoreCompileInputs.cache
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\TrieSerie\obj\Debug\netcoreapp3.1\TrieSerie.csproj.CopyComplete
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\TrieSerie\obj\Debug\netcoreapp3.1\TrieSerie.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\TrieSerie\obj\Debug\netcoreapp3.1\TrieSerie.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\TrieSerie\obj\Debug\netcoreapp3.1\TrieSerie.genruntimeconfig.cache

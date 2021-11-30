@@ -1,0 +1,138 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>Video_BandeAnnonce</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Anime\desenchantee.mp4" />
+    <None Remove="Anime\futurama-worlds-of-tomorrow-official-launch-trailer.mp4" />
+    <None Remove="Anime\futurama.mp4" />
+    <None Remove="Anime\les_simpsons.mp4" />
+    <None Remove="Anime\rick_et_morty.mp4" />
+    <None Remove="Anime\south-park.mp4" />
+    <None Remove="Documentaire\dans-le-sillage-des-pirates.mp4" />
+    <None Remove="Documentaire\En-pleine-nature.mp4" />
+    <None Remove="Documentaire\formule1.mp4" />
+    <None Remove="Documentaire\man-vs-wild.mp4" />
+    <None Remove="Documentaire\the-last-dance.mp4" />
+    <None Remove="Manga\dragon_ball_z.mp4" />
+    <None Remove="Manga\fairytail-official-trailer.mp4" />
+    <None Remove="Manga\l_attaque_des_titans.mp4" />
+    <None Remove="Manga\naruto.mp4" />
+    <None Remove="Manga\sword_art_online.mp4" />
+    <None Remove="SF_et_Action\altered_carbon.mp4" />
+    <None Remove="SF_et_Action\star_trek_discovery.mp4" />
+    <None Remove="SF_et_Action\Stranger Things _ Bande-annonce VF.mp4" />
+    <None Remove="SF_et_Action\stranger_things.mp4" />
+    <None Remove="SF_et_Action\the_100.mp4" />
+    <None Remove="SF_et_Action\umbrella-academy.mp4" />
+    <None Remove="SF_et_Action\umbrella_academy.mp4" />
+    <None Remove="Sitcom\friends.mp4" />
+    <None Remove="Sitcom\how_i_met_your_mother.mp4" />
+    <None Remove="Sitcom\malcolm.mp4" />
+    <None Remove="Sitcom\soda.mp4" />
+    <None Remove="Sitcom\the_big_bang_theorie.mp4" />
+    <None Remove="Thriller\black-mirror.mp4" />
+    <None Remove="Thriller\breaking-bad.mp4" />
+    <None Remove="Thriller\house-of-cards.mp4" />
+    <None Remove="Thriller\la-casa-de-papel.mp4" />
+    <None Remove="Thriller\narcos.mp4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Anime\desenchantee.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Anime\futurama.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Anime\les_simpsons.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Anime\rick_et_morty.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Anime\south-park.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Documentaire\dans-le-sillage-des-pirates.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Documentaire\En-pleine-nature.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Documentaire\formule1.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Documentaire\man-vs-wild.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Documentaire\the-last-dance.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Manga\dragon_ball_z.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Manga\fairytail-official-trailer.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Manga\l_attaque_des_titans.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Manga\naruto.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Manga\sword_art_online.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SF_et_Action\altered_carbon.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SF_et_Action\star_trek_discovery.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SF_et_Action\stranger_things.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SF_et_Action\the_100.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SF_et_Action\umbrella-academy.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Sitcom\friends.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Sitcom\how_i_met_your_mother.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Sitcom\malcolm.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Sitcom\soda.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Sitcom\the_big_bang_theorie.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Thriller\black-mirror.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Thriller\breaking-bad.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Thriller\house-of-cards.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Thriller\la-casa-de-papel.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Thriller\narcos.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Ecrire_un_Commentaire\bin\Debug\netcoreapp3.1\Ecrire_un_Commentaire.exe
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Ecrire_un_Commentaire\bin\Debug\netcoreapp3.1\Ecrire_un_Commentaire.deps.json
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Ecrire_un_Commentaire\bin\Debug\netcoreapp3.1\Ecrire_un_Commentaire.runtimeconfig.json
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Ecrire_un_Commentaire\bin\Debug\netcoreapp3.1\Ecrire_un_Commentaire.runtimeconfig.dev.json
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Ecrire_un_Commentaire\bin\Debug\netcoreapp3.1\Ecrire_un_Commentaire.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Ecrire_un_Commentaire\bin\Debug\netcoreapp3.1\Ecrire_un_Commentaire.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Ecrire_un_Commentaire\bin\Debug\netcoreapp3.1\Modele.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Ecrire_un_Commentaire\bin\Debug\netcoreapp3.1\Modele.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Ecrire_un_Commentaire\obj\Debug\netcoreapp3.1\Ecrire_un_Commentaire.csprojAssemblyReference.cache
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Ecrire_un_Commentaire\obj\Debug\netcoreapp3.1\Ecrire_un_Commentaire.AssemblyInfoInputs.cache
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Ecrire_un_Commentaire\obj\Debug\netcoreapp3.1\Ecrire_un_Commentaire.AssemblyInfo.cs
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Ecrire_un_Commentaire\obj\Debug\netcoreapp3.1\Ecrire_un_Commentaire.csproj.CoreCompileInputs.cache
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Ecrire_un_Commentaire\obj\Debug\netcoreapp3.1\Ecrire_un_Commentaire.csproj.CopyComplete
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Ecrire_un_Commentaire\obj\Debug\netcoreapp3.1\Ecrire_un_Commentaire.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Ecrire_un_Commentaire\obj\Debug\netcoreapp3.1\Ecrire_un_Commentaire.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\Ecrire_un_Commentaire\obj\Debug\netcoreapp3.1\Ecrire_un_Commentaire.genruntimeconfig.cache

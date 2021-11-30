@@ -1,0 +1,17 @@
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\bin\Debug\netcoreapp3.0\RechercherSerie.exe
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\bin\Debug\netcoreapp3.0\RechercherSerie.deps.json
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\bin\Debug\netcoreapp3.0\RechercherSerie.runtimeconfig.json
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\bin\Debug\netcoreapp3.0\RechercherSerie.runtimeconfig.dev.json
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\bin\Debug\netcoreapp3.0\RechercherSerie.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\bin\Debug\netcoreapp3.0\RechercherSerie.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\bin\Debug\netcoreapp3.0\Data.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\bin\Debug\netcoreapp3.0\Modele.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\bin\Debug\netcoreapp3.0\Data.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\bin\Debug\netcoreapp3.0\Modele.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\obj\Debug\netcoreapp3.0\RechercherSerie.AssemblyInfoInputs.cache
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\obj\Debug\netcoreapp3.0\RechercherSerie.AssemblyInfo.cs
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\obj\Debug\netcoreapp3.0\RechercherSerie.csproj.CoreCompileInputs.cache
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\obj\Debug\netcoreapp3.0\RechercherSerie.csproj.CopyComplete
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\obj\Debug\netcoreapp3.0\RechercherSerie.dll
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\obj\Debug\netcoreapp3.0\RechercherSerie.pdb
+C:\Users\Clément\Desktop\cours\1 année IUT Informatique\Projet tutoré 1AP4\projet\CollectionSerie\RechercherSerie\obj\Debug\netcoreapp3.0\RechercherSerie.genruntimeconfig.cache
